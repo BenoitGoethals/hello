@@ -46,16 +46,4 @@ Network Trash Folder
 Temporary Items
 .apdisk
 /output/
-.classpath
-.idea/.name
-.idea/hello.iml
-.idea/misc.xml
-.idea/modules.xml
-.idea/workspace.xml
-.project
-.settings/
-Dockerfile
-output/
-pom.xml
-production/
-src/main/
+
